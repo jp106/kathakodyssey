@@ -1,3 +1,4 @@
+
 # Kathak Odyssey
 ## Kathak Ebook
 Kathak is an north indian classical dance. This is the first ebook on Kathak, an attempt to create a digital presence on Kathak education. This journey started off as an Kathak educatino blog - [Kathak Odyssey](http://www.kathakodyssey.blogspot.com/) and led to write the first ebook on Kathak which is a work in progress. 
@@ -46,4 +47,5 @@ Shikhar :thumbsup:
 - [ ] Ek Taal Tukda youtube link
 - [ ] Tihai Definition
 
-![Hansasya Mudra](hansasya.jpg)
+<img src="hansasya.jpg" alt="Hansasya mudra"  width="50%"/>
+
