@@ -10,4 +10,31 @@ Kathak is an north indian classical dance. This is the first ebook on Kathak, an
 4.  Dadra
 5.  Keherva
 
+### This ebook is intended to provide all basic Kathak education including types of tukdas, pranam(salutation) and more. Following is the check list :
+
+- [x] Kathak certification levels
+- [x] Teen Taal Definition
+- [x] Teen Taal Notation
+- [x] Teen Taal youtube link
+- [x] Jhap Taal Definition
+- [x] Jhap Taal Notation
+- [x] Jhap Taal youtube link
+- [x] Ek Taal Definition
+- [x] Ek Taal Notation
+- [x] Ek Taal youtube link
+- [x] Dadra Taal Definition
+- [x] Dadra Taal Notation
+- [x] Dadra Taal youtube link
+- [x] Keherva Taal Definition
+- [x] Keherva Taal Notation
+- [x] Keherva Taal youtube link
+- [ ] Tukda Definition
+- [ ] Teen Taal Tukda
+- [ ] Teen Taal Tukda youtube link
+- [ ] Jhap Taal Tukda
+- [ ] Jhap Taal Tukda youtube link
+- [ ] Ek Taal Tukda
+- [ ] Ek Taal Tukda youtube link
+- [ ] Tihai Definition
+
 ![Hansasya Mudra](hansasya.jpg)
